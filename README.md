@@ -1,2 +1,5 @@
-# gaussexample
-Un ejemplo de uso y utilidad de git
+# Ejemplo: Gaussian plot
+
+Un ejemplo de uso y utilidad de git.
+
+
