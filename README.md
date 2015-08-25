@@ -22,6 +22,8 @@ Saludos!
 
 Colaborador.
 
+> El siguiente [*cheat sheet*](https://education.github.com/git-cheat-sheet-education.pdf) le puede ser útil.
+
 ## Ejercicio nro. 1
 
 La idea es aprender a usar github para entregar las tareas. El ejercicio consiste en seguir los siguientes pasos:
